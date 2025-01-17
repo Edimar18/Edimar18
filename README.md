@@ -1,4 +1,4 @@
-<h5 align="left">Hi, I'm Edimar Mosquida, a Machine Learning and AI enthusiast with a solid foundation in Python. I'm pursuing a B.S. in Information Technology at the University of Science and Technology of Southern Philippines (USTP - CDO). I also have web development expertise, enabling me to integrate ML/AI into web applications.</h5>
+<h1 align="left">Hi, I'm Edimar Mosquida, a Machine Learning and AI enthusiast with a solid foundation in Python. I'm pursuing a B.S. in Information Technology at the University of Science and Technology of Southern Philippines (USTP - CDO). I also have web development expertise, enabling me to integrate ML/AI into web applications.</h1>
 
 ###
 
